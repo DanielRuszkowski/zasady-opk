@@ -610,6 +610,7 @@
 | FR-DC-LIGA-07                           | III            | 4h             | [The Lurking Blade](#the-lurking-blade)                                                                       |
 | FR-DC-ONI-01                            | II             | 4h             | [Oni of the Thousand Gates](#oni-of-the-thousand-gates)                                                       |
 | FR-DC-ONI-02                            | II             | 4h             | [Battlefield Blooms](#battlefield-blooms)                                                                     |
+| FR-DC-QLA-01                            | III            | 4h             | [Mel's Pit](#mel's-pit)                                                                                       |
 | FR-DC-THAY-02                           | II             | 4h             | [How to Seduce a Thayan in Tendays](#How-toS-educe-a-Thayan-in-Tendays)                                       |
 | FR-DC-VECNA-01                          | II             | 4h             | [Three Body Problem](#three-body-problem)                                                                     |
 | FR-DC-VECNA-02                          | II             | 4h             | [Eldritch Eye Wide Shut](#eldritch-eye-wide-shut)                                                             |
@@ -7216,6 +7217,22 @@ A 4 hour Tier 2 Adventure, optimized for APL 8
 CONTENT WARNINGS: Death, Disrespect of the Dead
 
 The second adventure in the ONI series, inspired by Heian Japan, its folklore, and its history. The FR-DC-ONI adventures are not sequential, and can be played in any order. They share a setting, not an overarching story.
+
+**Komentarz**
+Brak uwag związanych z prowadzeniem przygody w ramach OPK
+
+### [Mel's Pit](https://www.dmsguild.com/en/product/464961/mel-s-pit-fr-dc-qla-01)
+
+**Informacje o przygodzie**
+Everyone in the Sword Coast has heard the stories of “MEL’S PIT” -- based on the real-life legend of Mel's Hole -- a strange, powerful or magical “bottomless pit:” the living entering the pit never return, the dead entering the pit return as undead, etc. Rumors and stories have spread like fire, far and wide.  Most in the realm assume it’s just a story. But the locals of the village of Red Larch explain that it’s real. Located on the outskirts of the village. The exact location of Mel’s Pit, however, is unknown.
+
+As the party approaches the small village of Red Larch, the rumors take on a particularly scary reality. Confronted with the terrifying attack, they are tasked with uncovering the secrets of pit and stopping whatever it is that's terrorizing the village.
+
+This adventure is playtested to take about 4 hours. There are a number of optional sections that can be used to shorten or lengthen the adventure depending on the style of play.
+
+This adventure is designed for three to seven 11-16-level characters and is optimized for five characters with an average party level (APL) of 13. For characters below this level range, the combat encounters will be deadly. Characters above this range, may find this adventure to fun but engaging. There are rules modifications to adjust the difficulty.
+
+This adventure occurs in the small village of Red Larch on the Sword Coast in the Forgotten Realms.
 
 **Komentarz**
 Brak uwag związanych z prowadzeniem przygody w ramach OPK
