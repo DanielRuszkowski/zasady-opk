@@ -7235,7 +7235,7 @@ This adventure is designed for three to seven 11-16-level characters and is opti
 This adventure occurs in the small village of Red Larch on the Sword Coast in the Forgotten Realms.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w ramach OPK
+Nie należy przyznawać przedmiotu Chime of Opening
 
 ### [THREE BODY PROBLEM](https://www.dmsguild.com/product/481892/THREE-BODY-PROBLEM-FRDCVECNA01)
 
