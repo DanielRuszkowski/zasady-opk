@@ -4054,7 +4054,7 @@ A four-hour D&D Adventurers League Convention Created Content adventure for 5th-
 characters, brought to you by Cold Iron Conventions and Draxtar Games.
 
 **Komentarz**
-Brak uwag związanych z prowadzeniem przygody w OPK.
+Nagrodę z przygody Sending Stones (uncommon) należy zastąpić przedmiotem Heart Weaver's Primer (rare).
 
 ### [Donum Vitae](https://www.dmsguild.com/product/238300/CCCCIC05-Donum-Vitae?affiliate_id=925821)
 
